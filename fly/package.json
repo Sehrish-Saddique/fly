@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Sehrish-Saddique.github.io/fly/fly/src/index.html",
+  "homepage": "https://Sehrish-Saddique.github.io/fly",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
